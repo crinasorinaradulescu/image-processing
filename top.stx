@@ -1,0 +1,37 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/crina/Desktop/tema2/implementare_tema2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/crina/Desktop/tema2/implementare_tema2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "process.v" in library work
+Compiling verilog file "image.v" in library work
+Module <process> compiled
+Compiling verilog file "test.v" in library work
+Module <image> compiled
+ERROR:HDLCompilers:26 - "test.v" line 27 unexpected token: '='
+ERROR:HDLCompilers:28 - "test.v" line 40 'aux' has not been declared
+ERROR:HDLCompilers:28 - "test.v" line 47 'aux' has not been declared
+Module <top> compiled
+Analysis of file <"top.prj"> failed.
+--> 
+
+Total memory usage is 4467932 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,454 @@
+ISim log file
+Running: C:\Users\crina\Desktop\tema2\implementare_tema2\nume_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/crina/Desktop/tema2/implementare_tema2/nume_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 570
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 571
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 572
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197850 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 197670 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197678 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 570
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 571
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 572
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197850 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197858 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197866 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197882 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197890 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197898 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197914 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197922 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197930 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197946 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197954 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197962 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 570
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 571
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 572
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 198006 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198006 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198014 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198014 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198022 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198038 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198038 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198046 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198054 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198054 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198066 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198070 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198094 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198102 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198118 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198126 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198142 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198150 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198158 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198182 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198190 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198206 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198214 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198230 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198238 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198246 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198270 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198278 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198294 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198302 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198318 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198326 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198334 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198358 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198366 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198382 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198390 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198406 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198414 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198422 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198446 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198454 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198470 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198478 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198494 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198502 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 197670 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197678 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197678 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197686 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197686 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197694 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197702 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197702 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197710 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197710 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197718 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197726 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197734 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197734 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197742 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197742 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197750 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197758 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197766 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197766 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197774 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197774 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197782 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197782 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 570
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 571
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 572
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197790 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197794 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197850 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197858 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197866 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197874 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197882 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197890 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197898 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197906 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197914 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197922 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197930 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 557
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 558
+# run all
+Stopped at time : 197938 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197946 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197954 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197962 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 570
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 571
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 572
+# run all
+Stopped at time : 197970 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 197974 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 591
+# run all
+Stopped at time : 198006 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198006 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198014 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198014 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198022 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 561
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198030 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198038 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198038 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198046 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198054 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198054 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 555
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 556
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198062 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198066 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198070 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198094 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198102 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198118 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198126 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198142 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198150 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198158 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198182 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198190 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198206 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585
+# run all
+Stopped at time : 198214 ns : File "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" Line 585

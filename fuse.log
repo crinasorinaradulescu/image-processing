@@ -1,0 +1,29 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/crina/Desktop/tema2/implementare_tema2/nume_isim_beh.exe -prj C:/Users/crina/Desktop/tema2/implementare_tema2/nume_beh.prj work.nume work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/division_algo.v" into library work
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/base2_to_base3.v" into library work
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/process.v" into library work
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/image.v" into library work
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/test.v" into library work
+WARNING:HDLCompiler:1300 - "C:/Users/crina/Desktop/tema2/implementare_tema2/test.v" Line 27: Non-module variable aux cannot be initialized at declaration
+Analyzing Verilog file "C:/Users/crina/Desktop/tema2/implementare_tema2/nume.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module div_algo(WIDTH=16)
+Compiling module base2_to_base3
+Compiling module process
+Compiling module image
+Compiling module top
+Compiling module nume
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\nume_isim_beh.exe.sim\libPortability.dll".
+Compiled 7 Verilog Units
+Built simulation executable C:/Users/crina/Desktop/tema2/implementare_tema2/nume_isim_beh.exe
+Fuse Memory Usage: 30940 KB
+Fuse CPU Usage: 655 ms

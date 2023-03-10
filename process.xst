@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/crina/Desktop/tema2/implementare_tema2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/crina/Desktop/tema2/implementare_tema2/xst"
+elaborate
+-ifn process.prj
+-ifmt mixed

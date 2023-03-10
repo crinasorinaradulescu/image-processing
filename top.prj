@@ -1,0 +1,3 @@
+verilog work "process.v"
+verilog work "image.v"
+verilog work "test.v"

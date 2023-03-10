@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/crina/Desktop/tema2/implementare_tema2/nume_isim_beh.exe" -prj "C:/Users/crina/Desktop/tema2/implementare_tema2/nume_beh.prj" "work.nume" "work.glbl" 

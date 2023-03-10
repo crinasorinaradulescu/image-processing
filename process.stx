@@ -1,0 +1,23 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/crina/Desktop/tema2/implementare_tema2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/crina/Desktop/tema2/implementare_tema2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "division_algo.v" in library work
+Compiling verilog file "base2_to_base3.v" in library work
+Module <div_algo> compiled
+FATAL_ERROR:HDLParsers:hdplibmap.c:1650:$Id: hdplibmap.c,v 1.5 2007/11/10 18:37:47 sandeepd Exp $ - Could not load library work. It is corrupted, please clean  the library directory C:/Users/crina/Desktop/tema2/implementare_tema2/xst/work and compile it again.   For technical support on this issue, please visit http://www.xilinx.com/support.
